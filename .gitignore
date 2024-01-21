@@ -1,0 +1,7 @@
+/customers/node_modules
+/api-gateway/node_modules
+/products/node_modules
+/shopping/node_modules
+/customers/.env
+/products/.env
+/shopping/.env
